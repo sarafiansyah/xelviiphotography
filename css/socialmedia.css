@@ -1,9 +1,7 @@
 /*
     Auther: Abdelrhman Said
 */
-
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-
 * {
   margin: 0;
   padding: 0;
@@ -18,10 +16,8 @@
 
 html,
 body {
-
   height: 100%;
   width: 100%;
-
 }
 
 .wrapperSM {
@@ -117,5 +113,4 @@ body {
 .wrapperSM .youtube:hover .tooltip::before {
   background-color: #de463b;
   color: #ffffff;
-}
-
+}/*# sourceMappingURL=socialmedia.css.map */

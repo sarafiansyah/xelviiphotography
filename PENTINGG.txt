@@ -1,0 +1,11 @@
+CATETAN
+1. Fitur AJAX ada di: 
+help (Di Root)
+upload (Di Root)
+feedback (Di Root)
+
+2. Dalam index ada case PHP untuk ke page lain
+
+3. Penerapan Left Join di Admin
+
+4. JS usermain ada di asset/sidebar09

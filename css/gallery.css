@@ -7,6 +7,9 @@
 */
 
 /* DEMO GENERAL ============================== */
+
+
+
 .hover {
     overflow: visible;
     position: relative;
@@ -52,16 +55,21 @@
     left: 0;
     z-index: 99;
     transition: all 0.4s;
+
+
   }
+  
   
   .hover-1 .hover-overlay {
     background: rgba(0, 0, 0, 0.5);
   }
   
   .hover-1-description {
+    margin-left: -30px;
     transform: translateY(0.5rem);
     transition: all 0.4s;
     opacity: 0;
+    background:  rgba(20, 20, 20, 0.655) 100%;
   }
   
   .hover-1:hover .hover-1-content {
